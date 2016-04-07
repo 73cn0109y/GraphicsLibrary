@@ -1,4 +1,20 @@
-﻿  Debug.cpp
+﻿  Window.cpp
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(56): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(92): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(110): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(144): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(186): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(187): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(219): warning C4018: '>': signed/unsigned mismatch
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\github\graphicslibrary\graphicslibrary\window.cpp(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TextureCache.cpp
+  Sprite.cpp
+  ResourceManager.cpp
+  ImageLoader.cpp
+  GLSLProgram.cpp
+  Generating Code...
 Opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
 Opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
-  GraphicsLibrary.vcxproj -> e:\documents\visual studio 2015\Projects\GraphicsLibrary\Debug\GraphicsLibrary.lib
+  GraphicsLibrary.vcxproj -> C:\Users\Admin\Github\GraphicsLibrary\Debug\GraphicsLibrary.lib
